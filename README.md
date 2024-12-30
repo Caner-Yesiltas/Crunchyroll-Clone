@@ -1,4 +1,8 @@
-# Crunchyroll Anime Clone 🎌
+<div align="center">
+ <h1> 
+  # Crunchyroll Anime Clone 🎌
+ </h1>
+</div>
 
 <div align="center">
  <h2>
