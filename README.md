@@ -79,5 +79,5 @@ Project Link: [https://boot-strap-crunchyroll-anime-assigment.vercel.app/](https
 ---
 
 <div align="center">
- Made with ❤️ by Caner Yesiltas
+ Made with 🎌 by Caner Yesiltas
 </div>
